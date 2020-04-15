@@ -1,0 +1,2 @@
+CLASS com/mojang/minecraft/a/a com/mojang/minecraft/a/TextureManager
+	METHOD a getTexture (Ljava/lang/String;I)I

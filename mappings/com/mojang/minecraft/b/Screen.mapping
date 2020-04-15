@@ -1,0 +1,5 @@
+CLASS com/mojang/minecraft/b/c com/mojang/minecraft/b/Screen
+	FIELD b width I
+	FIELD c height I
+	FIELD d children Ljava/util/List;
+	METHOD a init ()V

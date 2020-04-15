@@ -1,0 +1,19 @@
+CLASS com/mojang/minecraft/b/h com/mojang/minecraft/b/TextRenderer
+	FIELD a charWidth [I
+	FIELD b fontTexture I
+	METHOD <init> (Ljava/lang/String;Lcom/mojang/minecraft/a/a;)V
+		ARG 1 fontTexture
+		ARG 2 textureManager
+	METHOD a getStringWidth (Ljava/lang/String;)I
+		ARG 1 text
+	METHOD a drawWithShadow (Ljava/lang/String;III)V
+		ARG 1 text
+		ARG 2 x
+		ARG 3 y
+		ARG 4 color
+	METHOD a draw (Ljava/lang/String;IIIZ)V
+		ARG 1 text
+		ARG 2 x
+		ARG 3 y
+		ARG 4 color
+		ARG 5 shadow

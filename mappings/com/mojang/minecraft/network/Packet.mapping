@@ -1,0 +1,7 @@
+CLASS com/mojang/minecraft/net/a com/mojang/minecraft/network/Packet
+	FIELD a PACKETS [Lcom/mojang/minecraft/net/a;
+	FIELD b IDENTIFICATION Lcom/mojang/minecraft/net/a;
+	FIELD j DISCONNECTION Lcom/mojang/minecraft/net/a;
+	FIELD k size I
+	FIELD l id B
+	FIELD n PACKETS_SIZE I

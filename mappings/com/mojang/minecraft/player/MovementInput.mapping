@@ -1,0 +1,2 @@
+CLASS com/mojang/minecraft/player/b com/mojang/minecraft/player/MovementInput
+	FIELD e keys [Z

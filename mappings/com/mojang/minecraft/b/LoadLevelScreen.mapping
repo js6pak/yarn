@@ -1,0 +1,5 @@
+CLASS com/mojang/minecraft/b/f com/mojang/minecraft/b/LoadLevelScreen
+	FIELD e title Ljava/lang/String;
+	FIELD f parent Lcom/mojang/minecraft/b/c;
+	METHOD <init> (Lcom/mojang/minecraft/b/c;)V
+		ARG 1 parent

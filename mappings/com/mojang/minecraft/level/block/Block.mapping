@@ -1,0 +1,24 @@
+CLASS com/mojang/minecraft/level/a/a com/mojang/minecraft/level/block/Block
+	FIELD a BLOCKS [Lcom/mojang/minecraft/level/a/a;
+	FIELD c STONE Lcom/mojang/minecraft/level/a/a;
+	FIELD d GRASS Lcom/mojang/minecraft/level/a/a;
+	FIELD e DIRT Lcom/mojang/minecraft/level/a/a;
+	FIELD f COBBLESTONE Lcom/mojang/minecraft/level/a/a;
+	FIELD g PLANKS Lcom/mojang/minecraft/level/a/a;
+	FIELD h SAPLING Lcom/mojang/minecraft/level/a/a;
+	FIELD i BEDROCK Lcom/mojang/minecraft/level/a/a;
+	FIELD j STILL_WATER Lcom/mojang/minecraft/level/a/a;
+	FIELD k FLOWING_WATER Lcom/mojang/minecraft/level/a/a;
+	FIELD l STILL_LAVA Lcom/mojang/minecraft/level/a/a;
+	FIELD m FLOWING_LAVA Lcom/mojang/minecraft/level/a/a;
+	FIELD n SAND Lcom/mojang/minecraft/level/a/a;
+	FIELD o GRAVEL Lcom/mojang/minecraft/level/a/a;
+	FIELD p GOLD_ORE Lcom/mojang/minecraft/level/a/a;
+	FIELD q IRON_ORE Lcom/mojang/minecraft/level/a/a;
+	FIELD r COAL_ORE Lcom/mojang/minecraft/level/a/a;
+	FIELD s LOG Lcom/mojang/minecraft/level/a/a;
+	FIELD t LEAVES Lcom/mojang/minecraft/level/a/a;
+	FIELD u texture I
+	FIELD v id I
+	METHOD <init> (I)V
+		ARG 1 id

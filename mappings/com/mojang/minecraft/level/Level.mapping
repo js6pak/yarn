@@ -1,0 +1,2 @@
+CLASS com/mojang/minecraft/level/Level com/mojang/minecraft/level/Level
+	METHOD setTile setTile (IIII)Z
