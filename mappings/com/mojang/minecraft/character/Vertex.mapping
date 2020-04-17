@@ -1,0 +1,21 @@
+CLASS com/mojang/minecraft/character/e com/mojang/minecraft/character/Vertex
+	FIELD a pos Lcom/mojang/minecraft/character/c;
+	FIELD b u F
+	FIELD c v F
+	METHOD <init> (FFFFF)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+		ARG 4 u
+		ARG 5 v
+	METHOD <init> (Lcom/mojang/minecraft/character/c;FF)V
+		ARG 1 vector3f
+		ARG 2 u
+		ARG 3 v
+	METHOD <init> (Lcom/mojang/minecraft/character/e;FF)V
+		ARG 1 vertex
+		ARG 2 u
+		ARG 3 v
+	METHOD a remap (FF)Lcom/mojang/minecraft/character/e;
+		ARG 1 u
+		ARG 2 v

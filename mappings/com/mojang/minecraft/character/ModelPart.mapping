@@ -1,0 +1,28 @@
+CLASS com/mojang/minecraft/character/d com/mojang/minecraft/character/ModelPart
+	FIELD a pitch F
+	FIELD b yaw F
+	FIELD c roll F
+	FIELD d vertices [Lcom/mojang/minecraft/character/e;
+	FIELD e sides [Lcom/mojang/minecraft/character/b;
+	FIELD f textureOffsetU I
+	FIELD g textureOffsetV I
+	FIELD h pivotX F
+	FIELD i pivotY F
+	FIELD j pivotZ F
+	FIELD k compiled Z
+	FIELD l displayList I
+	METHOD <init> (II)V
+		ARG 1 textureOffsetU
+		ARG 2 textureOffsetV
+	METHOD a render ()V
+	METHOD a setPivot (FFF)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+	METHOD a addCuboid (FFFIII)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+		ARG 4 sizeX
+		ARG 5 sizeY
+		ARG 6 sizeZ

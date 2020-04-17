@@ -1,1 +1,7 @@
 CLASS com/mojang/minecraft/c com/mojang/minecraft/Minecraft
+	FIELD c level Lcom/mojang/minecraft/level/Level;
+	FIELD d player Lcom/mojang/minecraft/player/Player;
+	FIELD e session Lcom/mojang/minecraft/a;
+	METHOD a connect (Ljava/lang/String;I)V
+		ARG 1 address
+		ARG 2 port

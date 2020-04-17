@@ -4,4 +4,7 @@ CLASS com/mojang/minecraft/net/a com/mojang/minecraft/network/Packet
 	FIELD j DISCONNECTION Lcom/mojang/minecraft/net/a;
 	FIELD k size I
 	FIELD l id B
+	FIELD m lastParams [Ljava/lang/Class;
 	FIELD n PACKETS_SIZE I
+	METHOD <init> ([Ljava/lang/Class;)V
+		ARG 1 params

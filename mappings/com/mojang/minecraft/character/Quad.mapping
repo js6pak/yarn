@@ -1,0 +1,10 @@
+CLASS com/mojang/minecraft/character/b com/mojang/minecraft/character/Quad
+	FIELD a vertices [Lcom/mojang/minecraft/character/e;
+	METHOD <init> ([Lcom/mojang/minecraft/character/e;)V
+		ARG 1 vertices
+	METHOD <init> ([Lcom/mojang/minecraft/character/e;IIII)V
+		ARG 1 vertices
+		ARG 2 u1
+		ARG 3 v1
+		ARG 4 u2
+		ARG 5 v2

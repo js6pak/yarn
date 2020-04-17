@@ -1,1 +1,6 @@
 CLASS com/mojang/minecraft/net/b com/mojang/minecraft/network/b
+	FIELD c minecraft Lcom/mojang/minecraft/c;
+	METHOD <init> (Lcom/mojang/minecraft/c;Ljava/lang/String;ILjava/lang/String;)V
+		ARG 2 address
+		ARG 3 port
+		ARG 4 username

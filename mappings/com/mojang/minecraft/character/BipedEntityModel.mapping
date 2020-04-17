@@ -1,0 +1,8 @@
+CLASS com/mojang/minecraft/character/a com/mojang/minecraft/character/BipedEntityModel
+	FIELD a head Lcom/mojang/minecraft/character/d;
+	FIELD b torso Lcom/mojang/minecraft/character/d;
+	FIELD c rightArm Lcom/mojang/minecraft/character/d;
+	FIELD d leftArm Lcom/mojang/minecraft/character/d;
+	FIELD e rightLeg Lcom/mojang/minecraft/character/d;
+	FIELD f leftLeg Lcom/mojang/minecraft/character/d;
+	METHOD a render (FF)V

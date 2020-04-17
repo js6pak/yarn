@@ -1,0 +1,7 @@
+CLASS com/mojang/minecraft/level/c/a com/mojang/minecraft/level/block/FluidType
+	FIELD a NONE Lcom/mojang/minecraft/level/c/a;
+	FIELD b WATER Lcom/mojang/minecraft/level/c/a;
+	FIELD c LAVA Lcom/mojang/minecraft/level/c/a;
+	FIELD d FLUIDS [Lcom/mojang/minecraft/level/c/a;
+	METHOD <init> (I)V
+		ARG 1 id
